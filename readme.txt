@@ -1,8 +1,4 @@
-A
-A
-B
 
 
-C
-hello world!
-hello!
+Git is a version control system.
+Git is free software.
